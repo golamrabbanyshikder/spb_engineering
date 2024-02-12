@@ -8,6 +8,8 @@ public class SpbEngineeringApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpbEngineeringApplication.class, args);
+		
+		System.out.println("hello");
 	}
 
 }
